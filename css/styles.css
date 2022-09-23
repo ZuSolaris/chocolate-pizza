@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Ubuntu&display=swap');
+
+
+
+#bdyhdr{font-family: 'Oswald', sans-serif;
+  font-size:40px;
+  font-weight: bold
+
+}
+
+.divi {
+padding: 0.25vw;
+padding bottom: 20vw;
+background-image: url("../img/hr-img.png");
+background-repeat: auto;
+background-size: contain;
+
+margin-right:50px;
+}
+
+
+
+body{width: 1000px;
+  margin: auto;
+}
+
+#hero {
+  display: flex;
+  justify-content: center;
+}
+
+fieldset {
+  background-image: url("../img/list-bg.png");
+
+}
