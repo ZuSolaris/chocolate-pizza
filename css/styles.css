@@ -1,6 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Ubuntu&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
 
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Condensed:wght@300&family=Ubuntu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+#logolist {
+  display: inline;
+}
+
+#logomain {
+  justify-content: left;
+}
+#logo1 {
+  justify-content: left;
+  font-family: 'Dancing Script', cursive;
+  font-size: 32px;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+#logo2 {
+  display: flex;
+  justify-content: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 10px;
+}
+
+#icon{
+  display: flex;
+  justify-content: right;
+  margin-right: 50px;
+}
 
 #bdyhdr{font-family: 'Oswald', sans-serif;
   font-size:40px;
@@ -10,18 +43,23 @@
 
 .divi {
 padding: 0.25vw;
-padding bottom: 20vw;
+padding-bottom: .20vw;
 background-image: url("../img/hr-img.png");
 background-repeat: auto;
 background-size: contain;
 
-margin-right:50px;
+margin-right: 50px;
+margin-left: 50px;
 }
 
-
-
-body{width: 1000px;
+body {
+  width: 1000px;
   margin: auto;
+}
+
+#p1 {
+  font-family: 'Merriweather', serif;
+  color: rgb(145, 138, 138);
 }
 
 #hero {
