@@ -44,7 +44,7 @@
 .divi {
 padding: 0.25vw;
 padding-bottom: .20vw;
-background-image: url("../img/hr-img.png");
+background-image: url("./img/hr-img.png");
 background-repeat: auto;
 background-size: contain;
 
@@ -68,6 +68,6 @@ body {
 }
 
 fieldset {
-  background-image: url("../img/list-bg.png");
+  background-image: url("./img/list-bg.png");
 
 }
