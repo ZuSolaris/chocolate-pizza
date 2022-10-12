@@ -71,3 +71,19 @@ fieldset {
   background-image: url("./img/list-bg.png");
 
 }
+
+.button {
+  background-color: rgb(155, 105, 105);
+  color: white;
+  font: size 9px;
+}
+
+.footer {
+  text-align: center;
+}
+
+#print {
+  display: flex;
+  justify-content: right;
+  font-size: 25%;
+}
